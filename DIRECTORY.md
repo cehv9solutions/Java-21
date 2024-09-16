@@ -846,6 +846,7 @@
             * [TwinPrimeTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/TwinPrimeTest.java)
             * [VolumeTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/VolumeTest.java)
           * misc
+            * [InverseOfMatrixTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/misc/InverseOfMatrixTest.java)
             * [MapReduceTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/misc/MapReduceTest.java)
             * [MedianOfMatrixtest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/misc/MedianOfMatrixtest.java)
             * [MedianOfRunningArrayTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/misc/MedianOfRunningArrayTest.java)
@@ -857,6 +858,7 @@
             * [ArrayRightRotation](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/others/ArrayRightRotation.java)
             * [ArrayRightRotationTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/others/ArrayRightRotationTest.java)
             * [BestFitCPUTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/others/BestFitCPUTest.java)
+            * [BFPRTTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/others/BFPRTTest.java)
             * [BoyerMooreTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/others/BoyerMooreTest.java)
             * cn
               * [HammingDistanceTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/others/cn/HammingDistanceTest.java)
