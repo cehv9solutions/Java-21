@@ -1,6 +1,6 @@
 # Stage 1: Build
 # Use the specified Windows Server Core Insider image
-FROM mcr.microsoft.com/windows/servercore/insider:10.0.26244.5000 AS build
+FROM mcr.microsoft.com/windows/servercore/insider:10.0.26304.5000 AS build
 
 # Set environment variables for Maven
 ENV MAVEN_VERSION=3.9.9
@@ -26,7 +26,7 @@ RUN mvn clean package -DskipTests
 
 # Stage 2: Runtime
 # Use the specified Windows Server Core Insider image for runtime
-FROM mcr.microsoft.com/windows/servercore/insider:10.0.26244.5000
+FROM mcr.microsoft.com/windows/servercore/insider:10.0.26304.5000
 
 # Set the working directory inside the container
 WORKDIR /app
